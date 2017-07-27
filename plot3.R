@@ -4,7 +4,7 @@
 
 # Author:                       Niek Alexander Peters, MD
 #                               PhD Candidate Surgical Oncology
-#                               UMC Utrecht, The Netherlands
+#                               UMC Utrecht, The Netherlands 
 
 # Download file, unzip and load data
 dataSet <- "dataset.zip"
